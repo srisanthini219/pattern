@@ -1,4 +1,4 @@
-//Write a Java program to print a diamond pattern.
+
 import java.util.Scanner;
 public class Diamond {
     public static void main(String[] args){
@@ -25,3 +25,4 @@ public class Diamond {
         sc.close();
     }
 }
+
